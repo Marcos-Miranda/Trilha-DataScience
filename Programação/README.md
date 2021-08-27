@@ -6,3 +6,7 @@ Para conceitos como list comprehension e lambda functions ler algum breve artigo
 ## Regular Expressions
 
 Quando estudei regex (nome que usam geralmente para Regular Expressions) praticamente usei apenas a página da [documentação do módulo](https://docs.python.org/3/library/re.html) e a seção [HowTo](https://docs.python.org/3/howto/regex.html#regex-howto). Quando ficava em dúvida sobre algo específico recorria ao Stack Overflow.
+
+## HTML
+
+Artigos na internet já são suficientes. O site [W3Schools](https://www.w3schools.com/html/default.asp) possui um bom material também.
