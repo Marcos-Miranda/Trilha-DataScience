@@ -4,8 +4,8 @@
 
 - [x] Lógica de programação (if...elif...else, for, while, funções, etc) &#x1F534;
 - [x] [Python básico (syntax, tipos básicos, estruturas de dados)](/Programação/README.md#Python&#32;básico&#32;e&#32;intermediário) &#x1F534;
-- [ ] Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators) &#x1F7E2;
-- [ ] Regular Expressions &#x1F534;
+- [ ] [Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators)](/Programação/README.md#Python&#32;básico&#32;e&#32;intermediário) &#x1F7E2;
+- [ ] [Regular Expressions](/Programação/README.md#Regular&#32;Expressions) &#x1F534;
 - [ ] HTML básico &#x1F7E2;
 
 ## Exatas
