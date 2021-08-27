@@ -3,7 +3,7 @@
 ## [Programação](/Programação)
 
 - [x] <span style="color:red">Lógica de programação (if...elif...else, for, while, funções, etc)</span>
-- [x] [<span style="color:red">Python básico (syntax, tipos básicos, estruturas de dados)</span>](/Programação/README#Python\ básico)
+- [x] [<span style="color:red">Python básico (syntax, tipos básicos, estruturas de dados)</span>](/Programação/README.md#Python\ básico)
 - [ ] <span style="color:green">Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators)</span>
 - [ ] <span style="color:red">Regular Expressions</span>
 - [ ] <span style="color:green">HTML básico</span>
