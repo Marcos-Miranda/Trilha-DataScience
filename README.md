@@ -1,12 +1,16 @@
-# Trilha-DataScience
+# Trilha Data Science
+
+[&#x1F534;] -> Conteúdos mais básicos de Data Science, essenciais para começar a trabalhar em projetos
+[&#x1F7E2;] -> Conteúdos um pouco mais avançados, geralmente é bom ter uma base dos anteriores antes de estudá-los
+[&#x1F535;] -> Conteúdos que são ou muito avançados ou que não precisam ser priorizados para trabalhar no Raio X
 
 ## [Programação](/Programação)
 
 - [x] Lógica de programação (if...elif...else, for, while, funções, etc) &#x1F534;
-- [x] [Python básico (syntax, tipos básicos, estruturas de dados)](/Programação/README.md#Python&#32;básico&#32;e&#32;intermediário) &#x1F534;
-- [ ] [Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators)](/Programação/README.md#Python&#32;básico&#32;e&#32;intermediário) &#x1F7E2;
-- [ ] [Regular Expressions](/Programação/README.md#Regular&#32;Expressions) &#x1F534;
-- [ ] [HTML básico](/Programação/README.md#HTML) &#x1F7E2;
+- [x] [Python básico (syntax, tipos básicos, estruturas de dados)](/Programação) &#x1F534;
+- [ ] [Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators)](/Programação) &#x1F7E2;
+- [ ] [Regular Expressions](/Programação) &#x1F534;
+- [ ] [HTML básico](/Programação) &#x1F7E2;
 
 ## Exatas
 
@@ -27,7 +31,7 @@
 
 ## [Machine Learning](/Machine-Learning)
 
-### [Básico](/Machine-Learning/README.md#Básico)
+### [Básico](/Machine-Learning)
 
 - [ ] Regressão Linear &#x1F534;
 - [ ] Regressão Logística &#x1F534;
@@ -44,6 +48,7 @@
 - [ ] Evitar Data Leakage &#x1F7E2;
 - [ ] Feature Selection &#x1F7E2;
 - [ ] Gradient Boosting Machines &#x1F535;
+- [ ] Otimização de hiperparâmetros (Grid, Random e Bayesian) &#x1F535;
 - [ ] SHAP &#x1F535;
 
 ### Deep Learning/NLP
@@ -58,14 +63,14 @@
 
 ## [Ferramentas, frameworks e APIs](/Ferramentas)
 
-- [ ] [Git (acões básicas, pull requests e git flow)](/Ferramentas/README.md#Git) &#x1F534;
+- [ ] [Git (acões básicas, pull requests e git flow)](/Ferramentas) &#x1F534;
 - [x] Numpy &#x1F534;
 - [x] Pandas &#x1F534;
 - [ ] PySpark &#x1F535;
-- [ ] [Matplotlib](/Ferramentas/README.md#Matplotlib) &#x1F534;
+- [ ] [Matplotlib](/Ferramentas) &#x1F534;
 - [ ] Seaborn &#x1F535;
 - [ ] Plotly &#x1F535;
-- [ ] [Scikit-Learn](/Ferramentas/README.md#Scikit-Learn) &#x1F534;
+- [ ] [Scikit-Learn](/Ferramentas) &#x1F534;
 - [ ] Tensorflow-Keras &#x1F7E2;
 - [ ] Pytorch-FastAI &#x1F535;
 - [ ] Hugginface (tokenizers, datasets e transformers) &#x1F535;

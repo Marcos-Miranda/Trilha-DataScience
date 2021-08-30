@@ -4,7 +4,7 @@ Ler alguns artigos na internet deve ser suficiente. Vai ser importante entender 
 
 ## Matplotlib
 
-Essa biblioteca pode ser dominada conforme a demanda de sua utilização. Vendo artigos e a documentação.
+Essa biblioteca pode ser dominada conforme a demanda de sua utilização, vendo artigos e a documentação.
 
 ## Scikit-Learn
 
