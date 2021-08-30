@@ -1,7 +1,7 @@
 # Trilha Data Science
 
-[&#x1F534;] -> Conteúdos mais básicos de Data Science, essenciais para começar a trabalhar em projetos
-[&#x1F7E2;] -> Conteúdos um pouco mais avançados, geralmente é bom ter uma base dos anteriores antes de estudá-los
+[&#x1F534;] -> Conteúdos mais básicos de Data Science, essenciais para começar a trabalhar em projetos\
+[&#x1F7E2;] -> Conteúdos um pouco mais avançados, geralmente é bom ter uma base dos anteriores antes de estudá-los\
 [&#x1F535;] -> Conteúdos que são ou muito avançados ou que não precisam ser priorizados para trabalhar no Raio X
 
 ## [Programação](/Programação)
