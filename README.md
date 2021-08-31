@@ -10,7 +10,7 @@
 - [x] [Python básico (syntax, tipos básicos, estruturas de dados)](/Programação) &#x1F534;
 - [ ] [Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators)](/Programação) &#x1F7E2;
 - [ ] [Regular Expressions](/Programação) &#x1F534;
-- [ ] [HTML básico](/Programação) &#x1F7E2;
+- [x] [HTML básico](/Programação) &#x1F7E2;
 
 ## Exatas
 
