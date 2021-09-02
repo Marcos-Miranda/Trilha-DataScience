@@ -9,3 +9,12 @@ Essa biblioteca pode ser dominada conforme a demanda de sua utilização, vendo 
 ## Scikit-Learn
 
 Essa biblioteca pode ser dominada conforme se vai usando na prática. Porém o livro "Hands-On Machine Learning" pode ser de grande ajuda. Ele contém ainda um pouco de conteúdo teórico sobre vários algoritmos e aplicação de Tensorflow/Keras. É um excelente material auxiliar.
+
+## Tensorflow-Keras
+
+Tanto o livro "Hands-On Machine Learning" como o ["Deep Learning with Python"](../Machine-Learning) possuem um bom conteúdo.
+
+
+## Pyspark
+
+Acho que pra dominar a API só com prática mesmo. A [página do Spark](https://spark.apache.org/docs/latest/sql-getting-started.html) contém uma boa documentação, tirei maior parte do que eu sei de lá.
