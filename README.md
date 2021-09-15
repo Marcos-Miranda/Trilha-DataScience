@@ -9,7 +9,7 @@
 - [x] Lógica de programação (if...elif...else, for, while, funções, etc) &#x1F534;
 - [x] [Python básico (syntax, tipos básicos, estruturas de dados)](/Programação) &#x1F534;
 - [ ] [Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators)](/Programação) &#x1F7E2;
-- [ ] [Regular Expressions](/Programação) &#x1F534;
+- [x] [Regular Expressions](/Programação) &#x1F534;
 - [x] [HTML básico](/Programação) &#x1F7E2;
 
 ## Exatas
@@ -22,8 +22,8 @@
 ### [Probabilidade, estatística e visualização](/Estatística)
 
 - [x] [Estatística descritiva (medidas de centralidade e dispersão)](/Estatística) &#x1F534;
-- [ ] [Tipos de gráficos para diferentes tipos de variáveis](/Estatística) &#x1F534;
-- [ ] [Outliers](/Estatística) &#x1F534;
+- [x] [Tipos de gráficos para diferentes tipos de variáveis](/Estatística) &#x1F534;
+- [x] [Outliers](/Estatística) &#x1F534;
 - [ ] [Resampling](/Estatística) &#x1F7E2;
 - [ ] [Significância estatística](/Estatística) &#x1F7E2;
 - [ ] [Distribuições de probabilidade](/Estatística) &#x1F535;
@@ -67,7 +67,7 @@
 - [x] Numpy &#x1F534;
 - [x] Pandas &#x1F534;
 - [ ] [PySpark](/Ferramentas) &#x1F7E2;
-- [ ] [Matplotlib](/Ferramentas) &#x1F534;
+- [x] [Matplotlib](/Ferramentas) &#x1F534;
 - [ ] Seaborn &#x1F535;
 - [ ] Plotly &#x1F535;
 - [ ] [Scikit-Learn](/Ferramentas) &#x1F534;
