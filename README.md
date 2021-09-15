@@ -21,57 +21,57 @@
 
 ### [Probabilidade, estatística e visualização](/Estatística)
 
-- [x] Estatística descritiva (medidas de centralidade e dispersão) &#x1F534;
-- [x] Tipos de gráficos para diferentes tipos de variáveis &#x1F534;
-- [x] Outliers &#x1F534;
-- [ ] Resampling &#x1F7E2;
-- [ ] Significância estatística &#x1F7E2;
-- [ ] Distribuições de probabilidade &#x1F535;
-- [ ] Testes paramétricos &#x1F535;
+- [x] [Estatística descritiva (medidas de centralidade e dispersão)](/Estatística) &#x1F534;
+- [x] [Tipos de gráficos para diferentes tipos de variáveis](/Estatística) &#x1F534;
+- [x] [Outliers](/Estatística) &#x1F534;
+- [ ] [Resampling](/Estatística) &#x1F7E2;
+- [ ] [Significância estatística](/Estatística) &#x1F7E2;
+- [ ] [Distribuições de probabilidade](/Estatística) &#x1F535;
+- [ ] [Testes paramétricos](/Estatística) &#x1F535;
 
 ## [Machine Learning](/Machine-Learning)
 
 ### [Básico](/Machine-Learning)
 
-- [ ] Regressão Linear &#x1F534;
-- [ ] Regressão Logística &#x1F534;
-- [ ] KNN &#x1F534; 
-- [ ] Naive Bayes &#x1F534;
-- [ ] Decision Trees e Random Forest &#x1F534;
-- [ ] Avaliação de desempenho (métricas, k-fold, holdout, train-dev-test sets) &#x1F534;
-- [ ] Clusterização (K-means, hierarchical clustering) &#x1F535;
+- [ ] [Regressão Linear](/Machine-Learning) &#x1F534;
+- [ ] [Regressão Logística](/Machine-Learning) &#x1F534;
+- [ ] [KNN](/Machine-Learning) &#x1F534; 
+- [ ] [Naive Bayes](/Machine-Learning) &#x1F534;
+- [ ] [Decision Trees e Random Forest](/Machine-Learning) &#x1F534;
+- [ ] [Avaliação de desempenho (métricas, k-fold, holdout, train-dev-test sets)](/Machine-Learning) &#x1F534;
+- [ ] [Clusterização (K-means, hierarchical clustering)](/Machine-Learning) &#x1F535;
 
-### Intermediário/Avançado
+### [Intermediário/Avançado](/Machine-Learning)
 
-- [ ] SVM &#x1F7E2;
-- [ ] Lidar com classes desbalanceadas &#x1F7E2;
-- [ ] Evitar Data Leakage &#x1F7E2;
-- [ ] Feature Selection &#x1F7E2;
+- [ ] [SVM](/Machine-Learning) &#x1F7E2;
+- [ ] [Lidar com classes desbalanceadas](/Machine-Learning) &#x1F7E2;
+- [ ] [Evitar Data Leakage](/Machine-Learning) &#x1F7E2;
+- [ ] [Feature Selection](/Machine-Learning) &#x1F7E2;
 - [ ] Gradient Boosting Machines &#x1F535;
 - [ ] Otimização de hiperparâmetros (Grid, Random e Bayesian) &#x1F535;
 - [ ] SHAP &#x1F535;
 
-### Deep Learning/NLP
+### [Deep Learning/NLP](/Machine-Learning)
 
-- [ ] Bag of Words e TF-IDF &#x1F7E2;
-- [ ] Multilayer Perceptron &#x1F7E2;
-- [ ] Convolução 1D e 2D &#x1F7E2;
-- [ ] RNN e LSTM &#x1F7E2;
+- [ ] [Bag of Words e TF-IDF](/Machine-Learning) &#x1F7E2;
+- [ ] [Multilayer Perceptron](/Machine-Learning) &#x1F7E2;
+- [ ] [Convolução 1D e 2D](/Machine-Learning) &#x1F7E2;
+- [ ] [RNN e LSTM](/Machine-Learning) &#x1F7E2;
 - [ ] Transformers &#x1F535;
-- [ ] Weak Supervision &#x1F535;
+- [ ] [Weak Supervision](/Machine-Learning) &#x1F7E2;
 - [ ] Data Augmentation &#x1F535;
 
 ## [Ferramentas, frameworks e APIs](/Ferramentas)
 
-- [x] [Git (acões básicas, pull requests e git flow)](/Ferramentas) &#x1F534;
+- [ ] [Git (acões básicas, pull requests e git flow)](/Ferramentas) &#x1F534;
 - [x] Numpy &#x1F534;
 - [x] Pandas &#x1F534;
-- [ ] PySpark &#x1F535;
+- [ ] [PySpark](/Ferramentas) &#x1F7E2;
 - [x] [Matplotlib](/Ferramentas) &#x1F534;
 - [ ] Seaborn &#x1F535;
 - [ ] Plotly &#x1F535;
 - [ ] [Scikit-Learn](/Ferramentas) &#x1F534;
-- [ ] Tensorflow-Keras &#x1F7E2;
+- [ ] [Tensorflow-Keras](/Ferramentas) &#x1F7E2;
 - [ ] Pytorch-FastAI &#x1F535;
 - [ ] Hugginface (tokenizers, datasets e transformers) &#x1F535;
 - [ ] Snorkel &#x1F535;
