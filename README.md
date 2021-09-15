@@ -63,7 +63,7 @@
 
 ## [Ferramentas, frameworks e APIs](/Ferramentas)
 
-- [ ] [Git (acões básicas, pull requests e git flow)](/Ferramentas) &#x1F534;
+- [x] [Git (acões básicas, pull requests e git flow)](/Ferramentas) &#x1F534;
 - [x] Numpy &#x1F534;
 - [x] Pandas &#x1F534;
 - [ ] [PySpark](/Ferramentas) &#x1F7E2;
