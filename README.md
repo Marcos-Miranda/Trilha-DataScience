@@ -33,11 +33,11 @@
 
 ### [Básico](/Machine-Learning)
 
-- [ ] [Regressão Linear](/Machine-Learning) &#x1F534;
-- [ ] [Regressão Logística](/Machine-Learning) &#x1F534;
-- [ ] [KNN](/Machine-Learning) &#x1F534; 
-- [ ] [Naive Bayes](/Machine-Learning) &#x1F534;
-- [ ] [Decision Trees e Random Forest](/Machine-Learning) &#x1F534;
+- [x] [Regressão Linear](/Machine-Learning) &#x1F534;
+- [x] [Regressão Logística](/Machine-Learning) &#x1F534;
+- [x] [KNN](/Machine-Learning) &#x1F534; 
+- [x] [Naive Bayes](/Machine-Learning) &#x1F534;
+- [x] [Decision Trees e Random Forest](/Machine-Learning) &#x1F534;
 - [ ] [Avaliação de desempenho (métricas, k-fold, holdout, train-dev-test sets)](/Machine-Learning) &#x1F534;
 - [ ] [Clusterização (K-means, hierarchical clustering)](/Machine-Learning) &#x1F535;
 
