@@ -38,8 +38,8 @@
 - [x] [KNN](/Machine-Learning) &#x1F534; 
 - [x] [Naive Bayes](/Machine-Learning) &#x1F534;
 - [x] [Decision Trees e Random Forest](/Machine-Learning) &#x1F534;
-- [ ] [Avaliação de desempenho (métricas, k-fold, holdout, train-dev-test sets)](/Machine-Learning) &#x1F534;
-- [ ] [Clusterização (K-means, hierarchical clustering)](/Machine-Learning) &#x1F535;
+- [x] [Avaliação de desempenho (métricas, k-fold, holdout, train-dev-test sets)](/Machine-Learning) &#x1F534;
+- [x] [Clusterização (K-means, hierarchical clustering)](/Machine-Learning) &#x1F535;
 
 ### [Intermediário/Avançado](/Machine-Learning)
 
@@ -70,7 +70,7 @@
 - [x] [Matplotlib](/Ferramentas) &#x1F534;
 - [ ] Seaborn &#x1F535;
 - [ ] Plotly &#x1F535;
-- [ ] [Scikit-Learn](/Ferramentas) &#x1F534;
+- [x] [Scikit-Learn](/Ferramentas) &#x1F534;
 - [ ] [Tensorflow-Keras](/Ferramentas) &#x1F7E2;
 - [ ] Pytorch-FastAI &#x1F535;
 - [ ] Hugginface (tokenizers, datasets e transformers) &#x1F535;
