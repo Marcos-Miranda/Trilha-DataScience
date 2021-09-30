@@ -47,8 +47,8 @@
 - [ ] [Lidar com classes desbalanceadas](/Machine-Learning) &#x1F7E2;
 - [ ] [Evitar Data Leakage](/Machine-Learning) &#x1F7E2;
 - [ ] [Feature Selection](/Machine-Learning) &#x1F7E2;
-- [ ] Gradient Boosting Machines &#x1F535;
-- [ ] Otimização de hiperparâmetros (Grid, Random e Bayesian) &#x1F535;
+- [ ] [Gradient Boosting Machines](/Machine-Learning) &#x1F535;
+- [ ] [Otimização de hiperparâmetros (Grid, Random e Bayesian)](/Machine-Learning) &#x1F535;
 - [ ] SHAP &#x1F535;
 
 ### [Deep Learning/NLP](/Machine-Learning)
