@@ -20,6 +20,16 @@ Não tem muito conteúdo abordando isso. Acho que vale marcar uma conversa para 
 
 Existem muitas técnicas. [Este artigo](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/) dá uma boa noção dos "filter-based methods". O livro "ISLR" aborda "Stepwise Selection".
 
+#### Gradient Boosting Machines
+
+Para entender o conceito do algoritmo eu recomendo [este artigo](https://explained.ai/gradient-boosting/index.html) e essa série de 4 vídeos: [parte 1](https://www.youtube.com/watch?v=3CC4N4z3GJc&ab_channel=StatQuestwithJoshStarmer).
+Há vários módulos que implementam o algoritmo, o meu preferido, pelo desempenho e capacidade de aceitar variáveis categóricas em string e valores NaNs, é o [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html).
+
+#### Otimização de Hiperparâmetros
+
+Os metódos mais relevantes são Grid, Random e Bayesian. Para os dois primeiros [este artigo](https://machinelearningmastery.com/hyperparameter-optimization-with-random-search-and-grid-search/) já dá uma boa noção. Já pro Bayesian Optimization, que é o método mais performático em geral e o que mais uso, [este artigo](https://distill.pub/2020/bayesian-optimization/) é muito bem elaborado.
+Em relação aos módulos que implementam Bayesian eu recomendo tanto o [HyperOpt](http://hyperopt.github.io/hyperopt/) quanto o [Optuna](https://optuna.org/). Dependendo da situação um pode ser mais adequado que o outro.
+
 ## Deep Learning/NLP
 
 #### Bag of Words/TF-IDF
