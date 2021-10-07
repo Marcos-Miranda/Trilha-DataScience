@@ -8,7 +8,7 @@
 
 - [x] Lógica de programação (if...elif...else, for, while, funções, etc) &#x1F534;
 - [x] [Python básico (syntax, tipos básicos, estruturas de dados)](/Programação) &#x1F534;
-- [ ] [Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators)](/Programação) &#x1F7E2;
+- [x] [Python intermediário/avançado (orientação a objetos, list comprehension, lambda functions, generators, decorators)](/Programação) &#x1F7E2;
 - [x] [Regular Expressions](/Programação) &#x1F534;
 - [x] [HTML básico](/Programação) &#x1F7E2;
 
